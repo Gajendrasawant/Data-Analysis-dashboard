@@ -1,4 +1,4 @@
-#Mobile Sales Dashboard (Power BI)
+# Mobile Sales Dashboard (Power BI)
 
 This repository contains an interactive Power BI dashboard that provides a comprehensive analysis of mobile sales data. The report highlights sales performance across cities, brands, and customer segments, helping stakeholders make informed business decisions.
 
